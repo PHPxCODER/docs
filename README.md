@@ -1,4 +1,4 @@
-# 🤖 About Me
+
 
 ![Strange Bot](https://i.imgur.com/nFrS5wC.png)
 
