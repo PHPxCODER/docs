@@ -8,7 +8,7 @@ description: 32 commands
 
 * **Description**: add filter to the provided image
 * **Command Usage**: !{avaliable filters}
-* **Slash Usage**: `/filter <name>`&#x20;
+* **Slash Usage**: `/filter <name>`
 * **Cooldown**: 5 seconds
 * **Available Filters**:
 
@@ -20,7 +20,7 @@ description: 32 commands
 
 * **Description**: image meme generator
 * **Command Usage**: !{available generator}
-* **Slash Usage**: `/generator <name>`&#x20;
+* **Slash Usage**: `/generator <name>`
 * **Cooldown**: 5 seconds
 * **Available Generators**:
 
@@ -32,10 +32,8 @@ description: 32 commands
 | rip    | shit          | stonk        | tatoo    |
 | thomas | trash         | wanted       | wasted   |
 
-
-
 {% hint style="info" %}
-### Command Usage
+#### Command Usage
 
 You can use image commands in the following formats
 
@@ -46,7 +44,7 @@ You can use image commands in the following formats
 {% endhint %}
 
 {% hint style="info" %}
-### Slash Optional Arguments
+#### Slash Optional Arguments
 
 The above image commands use the command author's avatar by default. However, the following optional argument
 
