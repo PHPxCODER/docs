@@ -1,20 +1,20 @@
-
+# 🤖 About Me
 
 ![Strange Bot](https://i.imgur.com/nFrS5wC.png)
 
-> An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus
-> Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client\_id=752922609733337190\&permissions=397602323830\&scope=bot%20applications.commands)
+> An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client\_id=752922609733337190\&permissions=397602323830\&scope=bot%20applications.commands)
 >
 > Support Server: [Join Here](https://discord.gg/fE75UShbqB)
 >
 > Documentation URL: [Visit Here](https://docs.strangebot.xyz)
-### Prerequisites
+
+#### Prerequisites
 
 * [Node.js](https://nodejs.org/en/) v16.6.0 or higher
 * [Git](https://git-scm.com/downloads)
 * [MongoDB](https://www.mongodb.com)
 
-### Getting Started
+#### Getting Started
 
 * Open the terminal and run the following commands
 
@@ -31,7 +31,7 @@ npm install
 
 If you need any additional help, make sure to read our guides [here](docs/additional/installation.md)
 
-### Features
+#### Features
 
 Strange is a feature-rich discord bot with new features constantly being updated! Current features include
 
@@ -44,7 +44,7 @@ Strange is a feature-rich discord bot with new features constantly being updated
 * **Reaction Roles**: Support for creation of multiple custom reaction roles
 * **Greeting**: Highly Customizable welcome and farewell embeds
 
-### Categories
+#### Categories
 
 Strange has an extensive list of all useful commands (**more than 100**) which are categorized as follows
 
@@ -62,7 +62,7 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 
 A complete list of commands can be found in the [documentation](docs/commands/)
 
-### 🤝 Contributing
+#### 🤝 Contributing
 
 * Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
 * Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
